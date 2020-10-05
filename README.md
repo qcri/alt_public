@@ -35,3 +35,8 @@ A script is triggered that checks that the format of the bib file is correct. Th
 ### Manual verification 
 
 A manual inspection is necessary to guarantee that the entry is acceptable and is not duplicated.
+
+### Contribution
+
+You need to create a new branch from latest master branch using `git checkout -b branch_name`. Then you need to push your changes in this branch and create a pull request. You must not merge the pull request until it passes the build. If any error shows, you have to resolve it in your local branch and then push your changes to the pull request and check the build again.  
+
